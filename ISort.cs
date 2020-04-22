@@ -6,6 +6,6 @@ namespace StrategyPattern
 {
     interface ISort
     {
-        void MySort();
+        void MySort(int[] array);
     }
 }
